@@ -1,0 +1,24 @@
+# Custom License
+
+## Terms and Conditions
+
+1. **Viewing Permission**: This code is provided solely for educational purposes. You are permitted to view and read the code to understand its functionality.
+
+2. **No Reproduction or Distribution**: You may not copy, reproduce, distribute, or modify any part of this code in any form, digital or otherwise, without explicit permission from the author.
+
+3. **No Commercial Use**: This code may not be used for any commercial purposes.
+
+4. **No Usage in Projects**: This code may not be used, in part or in whole, in any personal, academic, or professional projects.
+
+5. **Attribution**: If you wish to reference this code in any work, you must provide proper attribution to the author, Darsh Chaurasia.
+
+6. **Disclaimer**: The author provides no warranties, expressed or implied, regarding the correctness, completeness, or suitability of the code for any purpose.
+
+## Author
+
+- **Darsh Chaurasia**  
+  Email: dchauras@asu.edu
+
+## Contact
+
+For permissions beyond the scope of this license, you may contact the author at the email address provided above.
